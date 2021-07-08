@@ -9,7 +9,6 @@ package.name = mortgagecalculator
 # (str) Package domain (needed for android/ios packaging)
 package.domain = org.kpbor2014
 
-
 # (str) Source code where the main.py live
 source.dir = .
 
@@ -29,7 +28,7 @@ source.dir = .
 #source.exclude_patterns = license,images/*/*.jpg
 
 # (str) Application versioning (method 1)
-version = 0.1
+version = 0.2
 
 # (str) Application versioning (method 2)
 # version.regex = __version__ = ['"](.*)['"]
